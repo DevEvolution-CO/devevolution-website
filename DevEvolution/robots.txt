@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Sitemap
+Sitemap: https://www.devevolution.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
